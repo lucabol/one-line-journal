@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">One Line Journal</string>
+    <string name="reminder_channel">Daily writing reminder</string>
+    <string name="reminder_channel_description">An offline writing cue at your preferred daily time.</string>
+    <string name="reminder_title">Your line for today</string>
+    <string name="reminder_write">Write today\'s line</string>
+</resources>

@@ -1,0 +1,2 @@
+-keepattributes Signature,InnerClasses,EnclosingMethod
+-keep class com.lucabol.onelinejournal.core.**$$serializer { *; }
